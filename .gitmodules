@@ -1,0 +1,3 @@
+[submodule "api_client"]
+	path = api_client
+	url = https://github.com/covid-genomics/covid-genomics-ts-client.git
